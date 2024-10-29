@@ -1,0 +1,15 @@
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/bin/Debug/net8.0/lab-7-maze-SavannaDickie
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/bin/Debug/net8.0/lab-7-maze-SavannaDickie.deps.json
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/bin/Debug/net8.0/lab-7-maze-SavannaDickie.runtimeconfig.json
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/bin/Debug/net8.0/lab-7-maze-SavannaDickie.dll
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/bin/Debug/net8.0/lab-7-maze-SavannaDickie.pdb
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/obj/Debug/net8.0/lab-7-maze-SavannaDickie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/obj/Debug/net8.0/lab-7-maze-SavannaDickie.AssemblyInfoInputs.cache
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/obj/Debug/net8.0/lab-7-maze-SavannaDickie.AssemblyInfo.cs
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/obj/Debug/net8.0/lab-7-maze-SavannaDickie.csproj.CoreCompileInputs.cache
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/obj/Debug/net8.0/lab-7-maze-SavannaDickie.sourcelink.json
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/obj/Debug/net8.0/lab-7-maze-SavannaDickie.dll
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/obj/Debug/net8.0/refint/lab-7-maze-SavannaDickie.dll
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/obj/Debug/net8.0/lab-7-maze-SavannaDickie.pdb
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/obj/Debug/net8.0/lab-7-maze-SavannaDickie.genruntimeconfig.cache
+/Users/personal3/Downloads/code/mycodedir/lab-7-maze-SavannaDickie/obj/Debug/net8.0/ref/lab-7-maze-SavannaDickie.dll
