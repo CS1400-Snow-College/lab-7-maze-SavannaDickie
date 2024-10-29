@@ -6,4 +6,13 @@
 using System.Data;
 
 Console.WriteLine("Hello Player! Welcome to the MAZE!!\nUse the arrows on your keyboard to navigate the maze.\n");
-//string[]
+Console.ReadLine();
+string[] mapRows = File.ReadAllLines("map.txt");
+Console.Clear();
+//Console.WriteLine(mapRows);
+
+//while (string row in mapRows);
+foreach (string row in mapRows)
+{
+    Console.WriteLine(row); //keep
+}
