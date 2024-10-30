@@ -56,6 +56,12 @@ do
      cursorLeft++;
      
     }
+    //if (/*mapRows[Console.CursorTop][Console.CursorLeft] == */Console.SetCursorPosition(27, 4))
+    //if (cursorTop == 27 && cursorLeft == 4)
+    if ( cursorTop == 4 && cursorLeft == 27 || mapRows[Console.CursorTop][Console.CursorLeft] == '*')
+    {
+        break;
+    }
     TryMove(cursorTop, cursorLeft, mapRows);//, out proposedTop, out proposedLeft);
     
         //proposedTop = cursorTop;
@@ -64,6 +70,8 @@ do
     
     //TryMove(proposedTop, proposedLeft, mapRows);
 } while (true);
+
+Console.WriteLine("\n\nGood Job! You made it out of the maze!");
 
 static void TryMove(int cursorTop, int cursorLeft, string[] mapRows)//, out int lastTop, out int lastLeft)
 {
